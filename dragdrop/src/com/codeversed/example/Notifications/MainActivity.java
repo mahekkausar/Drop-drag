@@ -34,6 +34,8 @@ public class MainActivity extends Activity implements OnTouchListener {
 
 	   layout = (FrameLayout) findViewById(R.id.LinearLayout01);
 	   // layout.setOnTouchListener(this);
+	// layout.setOnTouchListener(this);
+
 
 	   btn = (Button) findViewById(R.id.btn);
 	   btn.setDrawingCacheEnabled(true);
